@@ -1,7 +1,7 @@
 
 class SampleJS {
     customMethod(input) {
-        return String(html)
+        return String(input)
             .replace(/&/g, '&amp;')
             .replace(/"/g, '&quot;')
             .replace(/'/g, '&#39;')
