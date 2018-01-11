@@ -6,9 +6,9 @@
  */
 import SampleJS from "./SampleJS"
 
-let sampleJS = new SampleJS();
 module.exports = {
   escape: function(html) {
+    let sampleJS = new SampleJS();
     return sampleJS.customMethod(html);
   },
 
