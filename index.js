@@ -4,11 +4,12 @@
  * @param  {String} html
  * @return {String}
  */
-import {test} from './SampleJS.js';
+import SampleJS from "./SampleJS"
 
+let sampleJS = new SampleJS();
 module.exports = {
   escape: function(html) {
-    return custom(html);
+    return sampleJS.customMethod(html);
   },
 
   /**
