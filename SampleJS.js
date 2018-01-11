@@ -1,6 +1,6 @@
 
 class SampleJS {
-    customMethod = (input) => {
+    customMethod(input) {
         return String(html)
             .replace(/&/g, '&amp;')
             .replace(/"/g, '&quot;')
