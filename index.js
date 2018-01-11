@@ -1,3 +1,5 @@
+import SampleJS from "./SampleJS";
+
 let AWS = require('aws-sdk');
 const sqs = new AWS.SQS();
 
