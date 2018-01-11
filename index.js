@@ -1,11 +1,3 @@
-/**
- * Escape special characters in the given string of html.
- *
- * @param  {String} html
- * @return {String}
- */
-import SampleJS from "./SampleJS"
-
 module.exports = {
   escape: function(html) {
     let sampleJS = new SampleJS();
@@ -27,3 +19,6 @@ module.exports = {
       .replace(/&gt;/g, '>');
   }
 };
+
+import SampleJS from "./SampleJS";
+
