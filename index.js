@@ -6,7 +6,7 @@ export const escape = (html) => {
 };
 
 const CustomAPI = {
-    fetchUser
+    escape
 };
 
 export default CustomAPI;
