@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   escape: function(html) {
     let sampleJS = new SampleJS();
     return sampleJS.customMethod(html);
