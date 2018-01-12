@@ -93,7 +93,7 @@ export const untagQueue = (params, callback) => {
     sqs.untagQueue(params, callback)
 };
 
-SL.SQS = {
+const SLSQS = {
     addPermission,
     changeMessageVisibility,
     changeMessageVisibilityBatch,
@@ -116,4 +116,4 @@ SL.SQS = {
     untagQueue
 };
 
-module.exports = SL.SQS;
+module.exports = SLSQS;

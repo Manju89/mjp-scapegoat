@@ -1,1 +1,3 @@
-export {SQS} from './sqs';
+let SQS = require("sqs");
+
+module.exports = SQS;
