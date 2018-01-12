@@ -1,6 +1,6 @@
 {
   "name": "mjp-scapegoat",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "test module",
   "main": "index.js",
   "scripts": {
