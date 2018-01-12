@@ -116,4 +116,4 @@ const SLSQS = {
     untagQueue
 };
 
-export default SLSQS;
+module.exports = SLSQS;
