@@ -1,24 +1,20 @@
 {
   "name": "mjp-scapegoat",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "test module",
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Manju89/mjp-scapegoat.git"
-  },
   "keywords": [
     "mjp"
   ],
   "author": "MJP"
-],
+,
   "bugs": {
-    "url": "https://github.com/Manju89/mjp-scapegoat/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Manju89/mjp-scapegoat#readme",
+  "homepage": "",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.1.0",
