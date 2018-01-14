@@ -1,6 +1,6 @@
 {
   "name": "mjp-scapegoat",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "test module",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,7 @@
   "keywords": [
     "mjp"
   ],
-  "author": "MJP",
-  "license": [
-  {
-    "type": "MIT",
-    "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
-  }
+  "author": "MJP"
 ],
   "bugs": {
     "url": "https://github.com/Manju89/mjp-scapegoat/issues"
